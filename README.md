@@ -12,6 +12,6 @@ why rebuild:
 	- keyboard: x220
 
 ## Firmware
-	[![build status](https://travis-ci.org/jatha/thinkpadUsbKeyboard.svg)](https://travis-ci.org/jatha/thinkpadUsbKeyboard)
+[![build status](https://travis-ci.org/jatha/thinkpadUsbKeyboard.svg)](https://travis-ci.org/jatha/thinkpadUsbKeyboard)
 
 	- platformio
