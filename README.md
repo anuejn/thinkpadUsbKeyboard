@@ -1,6 +1,17 @@
 # Keyboard
-This directory contains all the information about the keyboard and other input methods such as power buttons.
+> ThinkPads has the best keyboard action of any laptop around. They would make a great USB conversion keyboard. - [hackaday](http://hackaday.com/2014/04/30/using-a-thinkpad-keyboard-over-usb/)
 
-microcontroller: http://au.mouser.com/Search/Refine.aspx?Keyword=SAMD21J18A+-+AU
-connector: http://www.mouser.de/ProductDetail/Molex/54363-0489/?qs=%2fha2pyFaduhtneDEGDEOU4oV6O88mrr%252be337CJ3LUAjOxAQWNQTCYA%3d%3d
-keyboard: Thinkpad x220
+why rebuild:
+	- simple
+	- modern
+	- reproducable
+
+## Hardware
+	- plug: Molex 54363-0489
+	- teensy
+	- keyboard: x220
+
+## Firmware
+	[![build status](https://travis-ci.org/jatha/thinkpadUsbKeyboard.svg)](https://travis-ci.org/jatha/thinkpadUsbKeyboard)
+
+	- platformio
